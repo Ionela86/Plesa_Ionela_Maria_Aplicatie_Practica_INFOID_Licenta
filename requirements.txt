@@ -1,0 +1,9 @@
+flask
+flask-cors
+pdfplumber
+python-docx
+scikit-learn
+numpy
+spacy
+
+PyMuPDF
